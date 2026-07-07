@@ -12,7 +12,9 @@ dist/
 # Database & uploads
 *.db
 backend/uploads/*.pdf
+backend/chroma_db/
 backend/chroma_data/
+backend/exports/*.pdf
 
 # Environment
 .env
